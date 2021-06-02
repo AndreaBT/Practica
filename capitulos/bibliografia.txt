@@ -1,0 +1,2 @@
+Chaco, S. and Straub, B. Pro Git. Apress
+Loeliger, J. and McCullough, M. Verison control with git O'Reilly
