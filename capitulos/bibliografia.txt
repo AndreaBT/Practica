@@ -1,2 +1,3 @@
 Chaco, S. and Straub, B. Pro Git. Apress
 Loeliger, J. and McCullough, M. Verison control with git O'Reilly
+Ryan Hodson. Ry's Git Tutorial. Smashwords (2014)
